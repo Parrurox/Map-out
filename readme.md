@@ -1,4 +1,4 @@
-# MapOut App Readme
+# MapOut App
 
 ## MapOut
 
