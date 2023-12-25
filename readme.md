@@ -40,7 +40,7 @@ Show off your achievements and favorite workout spots by sharing your maps with 
 
 1. **Visit**
 
-   Visit the [MapOut website](https://www.mapout.com)
+   Visit the [MapOut website](https://profound-cuchufli-398ba1.netlify.app/)
 
 2. **Create an Account**
 
@@ -56,6 +56,6 @@ Show off your achievements and favorite workout spots by sharing your maps with 
 
 ## Support and Feedback or connect
 
-If you encounter any issues or have suggestions for improvement, please reach out to our support team at [support@mapout.com](shaikhparwez963@gmail.com). We value your feedback and are dedicated to making MapOut the best fitness companion for our users.
+If you encounter any issues or have suggestions for improvement, please reach out to our support team at [X dm](https://twitter.com/roxonbluebirb). We value your feedback and are dedicated to making MapOut the best fitness companion for our users.
 
 Happy mapping and exploring with MapOut! 🗺️🏃‍♂️🚴‍♀️
